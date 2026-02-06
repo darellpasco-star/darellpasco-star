@@ -1,4 +1,4 @@
-## Hi there 👋
+## Currently figuring out how to use github also hi!
 
 <!--
 **darellpasco-star/darellpasco-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
